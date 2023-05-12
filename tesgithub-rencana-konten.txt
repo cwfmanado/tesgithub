@@ -2,7 +2,10 @@ Rencana Konten
 - Javascript
   * ES6
   * Framework Javascript
+   ^ Vue
 - Struktur Dasar Data
 - PHP Framework
+ ^ Laravel
 - Interview
 - Vlogs
+- Phyton
